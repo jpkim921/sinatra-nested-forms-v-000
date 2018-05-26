@@ -17,7 +17,7 @@ module FormsLab
       # @first_ship = Ship.new(pirate[ships][][:name], pirate[ships][][:type], pirate[ships][][:booty])
       # @second_ship = Ship.new(pirate[ships][][:name], pirate[ships][][:type], pirate[ships][][:booty])
 
-      # erb :'pirates/show'
+      erb :'pirates/show'
     end
 
   end
